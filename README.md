@@ -21,6 +21,10 @@
 [![Open Source](https://img.shields.io/badge/Open-Source-1e1e2e?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639&labelColor=1e1e2e&color=94e2d5)](https://github.com/savo-o)
 [![Resona](https://img.shields.io/badge/Creator-Resona-1e1e2e?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=1e1e2e&color=cba6f7)](https://github.com/savo-o/resona)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savo-o&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savo-o/savo-o/refs/heads/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/savo-o/savo-o/refs/heads/output/github-snake.svg" alt="GitHub Snake Animation" />
