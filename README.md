@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1>savo</h1>
-
+<p>
+  <h1>savo</h1>
+</p>
 <p>
   <b>main <a href="https://github.com/savo-o/resona">resona</a> developer</b>
 </p>
@@ -26,4 +27,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savo-o/savo-o/refs/heads/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/savo-o/savo-o/refs/heads/output/github-snake.svg" alt="GitHub Snake Animation" />
 </picture>
-</div> вот рав
+</div>
